@@ -1,3 +1,4 @@
+Test node 0.12
 # LoopBack DataSource Juggler
 
 LoopBack DataSource Juggler is an ORM that provides a common set of interfaces
